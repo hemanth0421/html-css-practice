@@ -1,0 +1,42 @@
+.logo{
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid steelblue;
+    margin: auto;
+    display: block;
+}
+
+body{
+    background-color: #DFC18A;
+    margin: 10px;
+}
+
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 30px;
+}
+
+.crew-member{
+    display: inline-block;
+}
+
+h2,span{
+    font-family: Pirata One;
+    font-size: 24pt;
+}
+
+span{
+    color: #2F76DC;
+}
+
+.info{
+    display: inline-block;
+    width: 400px;
+    margin-right: 70px;
+    font-family: Cursive;
+    font-size: 18pt;
+}
+
